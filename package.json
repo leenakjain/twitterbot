@@ -1,0 +1,20 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "Twitter bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "Leena Jain",
+  "license": "ISC",
+  "dependencies": {
+    "readline-specific": "^1.0.4",
+    "twit": "^2.2.5"
+  }
+}
